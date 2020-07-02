@@ -47,4 +47,14 @@
         android:padding="10dp"
         android:text="끝내기"
         android:textSize="20sp" />
+
+    <Button
+        android:id="@+id/btnClose2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp"
+        android:background="#B8B281"
+        android:padding="10dp"
+        android:text="끝내기"
+        android:textSize="20sp" />
 </LinearLayout>
